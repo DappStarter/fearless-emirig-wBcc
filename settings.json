@@ -1,0 +1,10 @@
+{
+    "name": "STest",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true
+    }
+}
